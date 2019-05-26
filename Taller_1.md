@@ -6,3 +6,4 @@ Hurto a motocicletas y hurto a comercio, en la Localidad de los Martires en el p
 
 ### 1.2 Por qué un mapa ayuda a resolverlo?
 
+El simple hec
