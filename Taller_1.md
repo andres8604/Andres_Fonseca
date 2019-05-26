@@ -6,14 +6,16 @@ Hurto a motocicletas y hurto a comercio, en la Localidad de los Martires en el p
 
 ### 1.2 Por qué un mapa ayuda a resolverlo?
 
-El simple hecho de tener una vision general del área de estudio y/o interes,desde una presprtiva geografica, aumenta la colaboracion para las personas que tomaran la desicion frente a la problematica a tratar.
-De igual forma la integracion con otras disciplinas básicas e instrumentales, en especial la matemática, la Geoestadística, Fotointerpretación, Geomorfología aplicada y Sistemas de información Geográfica, generan un andamiaje perfecto para la elaboracion de productos finales, con los cuales se asesora de amnera adecuada y acertada a los decisores.
+El simple hecho de tener una visión general del área de estudio y/o interés desde una perspectiva geográfica, aumenta la colaboración para las personas que tomaran la decisión frente a la problemática a tratar.
+De igual forma la integración con otras disciplinas básicas e instrumentales, en especial la matemática, la Geoestadística, Fotointerpretación, Geomorfología aplicada y Sistemas de información Geográfica, generan un andamiaje perfecto para la elaboración de productos finales, con los cuales se asesora de manera adecuada y acertada a los decisores.
 
 
-## 1.5 Fuentes utlizadas en la elaboracion del producto cartografico
+## 1.5 Fuentes utilizadas en la elaboración del producto cartográfico
 
-Para la creacion de este mapa, se utilizo datos abierto de la pagina de [estadistica de la Policia Nacional de Colombia](https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva), referentes a hurto a motocicletas y hurto a comercio.
+Para la creación de este mapa, se utilizó datos abierto de la página de [estadística de la Policía Nacional de Colombia](https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva), referentes a hurto a motocicletas y hurto a comercio.
 
 ## 1.6 Procedieminto realizado.
 
-Ingresamos a la pagina de estadistica de la Policia Nacional de Colombia,  
+Ingresamos a la página de estadística de la Policía Nacional de Colombia, en la parte inferior centro, encontramos **Delitos de Alto Impacto** y **año** en donde escogemos el delito de nuestra preferencia y el año en el cual deseamos conocer la información.
+
+Una vez se solicita la información de nuestro interés en cuanto al delito y el año deseado, es entregada por la página web, un archivo de Excel con extensión xls, el cual ya puede ser manipulado en cualquier software cartográfico. 
