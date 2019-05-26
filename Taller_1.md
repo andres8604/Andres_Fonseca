@@ -12,4 +12,8 @@ De igual forma la integracion con otras disciplinas básicas e instrumentales, e
 
 ## 1.5 Fuentes utlizadas en la elaboracion del producto cartografico
 
-Para la creacion de este mapa, se utilizo datos de la pagina de [estadistica de la Policia Nacional de Colombia](https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva).
+Para la creacion de este mapa, se utilizo datos abierto de la pagina de [estadistica de la Policia Nacional de Colombia](https://www.policia.gov.co/grupo-informaci%C3%B3n-criminalidad/estadistica-delictiva), referentes a hurto a motocicletas y hurto a comercio.
+
+## 1.6 Procedieminto realizado.
+
+Ingresamos a la pagina de estadistica de la Policia Nacional de Colombia,  
