@@ -2,7 +2,7 @@
 
 ###  1.1 - Cuál es el problema a tratar?
 
-Hurto a motocicletas y hurto a comercio, en la Localidad de los Martires en el periodo comprendido entre el año  2017 y 2018.
+Hurto a motocicletas y comercio, en la Localidad de los Martires de la ciudad de Bogota Distrito Capital de Colombia, en el periodo comprendido entre el año  2017 y 2018.
 
 ### 1.2 Por qué un mapa ayuda a resolverlo?
 
