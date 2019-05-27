@@ -29,6 +29,27 @@ Para la creación de este mapa, se utilizó datos abierto de la página de [esta
 
 ## 1.6 - Procedieminto realizado.
 
-Ingresamos a la página de estadística de la Policía Nacional de Colombia, en la parte inferior centro, encontramos **Delitos de Alto Impacto** y **año** en donde escogemos el delito de nuestra preferencia y el año en el cual deseamos conocer la información.
+Ingresamos a la página de estadística de la Policía Nacional de Colombia, en la parte inferior, encontramos **Delitos de Alto Impacto** y **año** en donde escogemos el delito de nuestra preferencia y el año en el cual deseamos conocer la información.
 
 Una vez se solicita la información de nuestro interés en cuanto al delito y el año deseado, es entregada por la página web, un archivo de Excel con extensión xls, el cual ya puede ser manipulado en cualquier software cartográfico. 
+
+Seguidamente utilizando el software cartografico ArcGis version 10.6.1, se desarrolla el ejercicio, así:
+
+* La base de datos se encontraba en un formato .xls, por lo cual se tuvo que migrar a un tipo .txt para que se pudiera mostrar como coordenadas sobre el gráfico.
+* Se creó un shapefile con los puntos, asignando el sistema de coordenadas WGS 84.
+* Se agruparon los datos que guardaban cercanía, a partir de su distancia (esto con ayuda de la herramienta "Collect events".
+* Luego se obtuvieron los puntos calientes, a partir de la herramienta "Hot spot analysis".
+* Luego se creó el mapa de interpolación mediante el método de Kriging.
+* Por último se editó gráficamente los datos obtenidos para producir la salida digital.
+ 
+
+
+
+
+
+
+
+
+
+
+
