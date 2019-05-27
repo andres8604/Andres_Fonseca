@@ -38,9 +38,9 @@ Seguidamente utilizando el software cartografico ArcGis version 10.6.1, se desar
 * La base de datos se encontraba en un formato .xls, por lo cual se tuvo que migrar a un tipo .txt para que se pudiera mostrar como coordenadas sobre el gráfico.
 * Se creó un shapefile con los puntos, asignando el sistema de coordenadas WGS 84.
 * Se agruparon los datos que guardaban cercanía, a partir de su distancia (esto con ayuda de la herramienta "Collect events".
-* Luego se obtuvieron los puntos calientes, a partir de la herramienta "Hot spot analysis".
-* Luego se creó el mapa de interpolación mediante el método de Kriging.
-* Por último se editó gráficamente los datos obtenidos para producir la salida digital.
+* Seguidamente se obtuvieron los puntos calientes, a partir de la herramienta "Hot spot analysis".
+* Se elabora el mapa de interpolación mediante el método de Kriging.
+* Finalmente se edita gráficamente los datos obtenidos para producir el producto cartografico (***MAPA***).
  
 
 
