@@ -17,8 +17,10 @@ El mapa temático señala a partir de un código de colores las zonas donde hay 
 
 ### 1.4 Descripción de los métodos de clasificación seleccionados.
 
-Hot spot: Muestra en cada agrupación de datos el grado de representatividad del cluster mediante un grado de confianza.
-Mapa de interpolación mediante el método de Kriging: Hace una interpolación de valores a partir del valor de z obtenido en el archivo generado con la herramienta "Hot spot", con lo cual ayuda a obtener valores de la variable "z" en lugares donde no se dispone información, o lugares que se encuentran entre dos puntos con datos de "z".
+1. ***Hot spot***: Muestra en cada agrupación de datos el grado de representatividad del cluster mediante un grado de confianza.
+
+2. ***Mapa de interpolación mediante el método de Kriging***: Hace una interpolación de valores a partir del valor de z obtenido en el archivo generado con la herramienta "Hot spot", con lo cual ayuda a obtener valores de la variable "z" en lugares donde no se dispone información, o lugares que se encuentran entre dos puntos con datos de "z".
+
 Se considera que el mejor método para presentar los resultados es mediante el mapa de interpolación, dado que los cluster ayudan a entender mejor la concentración de los eventos de hurtos espacialmente en la ciudad de Bogotá.
 
 ## 1.5 - Fuentes utilizadas en la elaboración del producto cartográfico.
