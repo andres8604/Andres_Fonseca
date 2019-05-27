@@ -41,6 +41,10 @@ Seguidamente utilizando el software cartografico ArcGis version 10.6.1, se desar
 * Seguidamente se obtuvieron los puntos calientes, a partir de la herramienta "Hot spot analysis".
 * Se elabora el mapa de interpolación mediante el método de Kriging.
 * Finalmente se edita gráficamente los datos obtenidos para producir el producto cartografico (***MAPA***).
+
+### 1.7 - Ventajas - Desventajas - Dificultades
+
+
  
 
 
