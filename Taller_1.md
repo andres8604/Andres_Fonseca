@@ -65,5 +65,5 @@ La salida gráfica fue generada desde el programa ArcGis,
 
 ### Recursos del anánalisis
 
-* [Archivo mxd.](https://github.com/andres8604/Cartografia-Web---AndresF-y-FabianR/blob/master/Hurto_Bogota.rar)
-* Data para el análisis.
+* [Archivo mxd.](https://github.com/andres8604/Cartografia-Web---AndresF-y-FabianR/blob/master/Cartograf%C3%ADa%20web.rar)
+* [Data para el análisis.](https://github.com/andres8604/Cartografia-Web---AndresF-y-FabianR/blob/master/HURTO%20A%20COMERCIO.xls)
