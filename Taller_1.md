@@ -7,7 +7,7 @@ Hurto al comercio, en la Localidad de los Martires de la ciudad de Bogota Distri
 ### 1.2 - Por qué un mapa ayuda a resolverlo?
 
 El simple hecho de tener una visión general del área de estudio y/o interés desde una perspectiva geográfica, aumenta la colaboración para las personas que tomaran la decisión frente a la problemática a tratar.
-De igual forma la integración con otras disciplinas básicas e instrumentales, en especial la matemática, la Geoestadística, Fotointerpretación, Geomorfología aplicada y Sistemas de información Geográfica, generan un andamiaje perfecto para la elaboración de productos finales, con los cuales se asesora de manera adecuada y acertada a los decisores.
+De igual forma la integración con otras disciplinas básicas e instrumentales, en especial la matemática, la Geoestadística, Fotointerpretación, Geomorfología aplicada y Sistemas de información Geográfica, brindan una herramienta de análisis, con la cual se puede asesorar de manera adecuada y acertada a los involucrados en los diferentes procesos y procedimientos.
 
 ### 1.3 - Descripcion del mapa tematico.
 
@@ -44,16 +44,26 @@ Seguidamente utilizando el software cartografico ArcGis version 10.6.1, se desar
 
 ### 1.7 - Ventajas - Desventajas - Dificultades
 
+La salida gráfica fue generada desde el programa ArcGis, 
 
+## ***Ventajas:***
+
+* Interfaz gráfica amigable.
+* Manejo de la herramienta.
+* Apoyo de personal técnico
+
+## ***Desventajas:***
  
+* Software licenciado.
+* Licenciamiento adecuado de acuerdo a las necesidades.
+* Costos elevados (Licencia personal)
 
+## ***Dificultades***
 
+* Conocimiento de herramientas específicas de análisis.
+* Interpretación adecuada de los resultados.
 
+### Recursos del anánalisis
 
-
-
-
-
-
-
-
+* Archivo mxd.
+* Data para el análisis.
