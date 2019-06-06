@@ -89,7 +89,7 @@ El shapefile de Geomorfología fue obtenido desde la [URL](http://www.sire.gov.c
 * Se cargo una leyenda a partir de las clases definidas por componentes.
 * Se configuró un pop up con el atributo componente, con lo cual cuando se pica sobre cualquier polígono, se abre una ventana donde se especifica a que tipo de Geomorfología corresponde el elemento, esto ayuda en cuanto a la identificación dado que algunos polígonos son demasiado pequeños para que puedan ser identificados con una vista general del mapa.
 
-[Se publicó como servicio público.](https://axel946.carto.com/builder/462d48f6-d5e2-438b-a640-8d9db33e0f7c/embed)
+[Se publicó como servicio.](https://axel946.carto.com/builder/462d48f6-d5e2-438b-a640-8d9db33e0f7c/embed)
 
 ### 1.7 - Ventajas - Desventajas - Dificultades
 
