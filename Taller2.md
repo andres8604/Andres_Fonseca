@@ -87,9 +87,19 @@ El shapefile de Geomorfología fue obtenido desde la [URL](http://www.sire.gov.c
 
 ## ***Ventajas:***
 
-•	Interfaz gráfica amigable.
-•	No es necesario programar para poder crear un mapa web.
-•	Un mapa web tiene la gran ventaja de ser interactivo y dinámico, a diferencia de un mapa estático producido como una salida gráfica de software como ArcGIS o QGIS
+* Interfaz gráfica amigable.
+* No es necesario programar para poder crear un mapa web.
+* Un mapa web tiene la gran ventaja de ser interactivo y dinámico, a diferencia de un mapa estático producido como una salida gráfica de software como ArcGIS o QGIS
+
+## ***Desventajas:***
+
+* Es necesario pagar para usar la herramienta.
+* En el modo gratuito para estudiantes limita algunas herramientas.
+* Los mapas publicados en el modo gratuito siempre son públicos, por lo cual se pierde el control en cuanto a la privacidad de los mapas e información.
+
+## ***Dificultades***
+
+* Aunque la herramienta es bastante intuitiva, se deben conocer mejor las herramientas de análisis con las cuales cuenta el servicio.
 
 
 
