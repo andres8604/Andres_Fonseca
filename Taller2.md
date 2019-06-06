@@ -1,4 +1,4 @@
-# 1 - Taller número uno
+# 1 - Taller número dos
 
 ###  1.1 - Cuál es el problema a tratar?
 
