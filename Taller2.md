@@ -83,5 +83,14 @@ El shapefile de Geomorfología fue obtenido desde la [URL](http://www.sire.gov.c
 
 [Se publicó como servicio público.](https://axel946.carto.com/builder/462d48f6-d5e2-438b-a640-8d9db33e0f7c/embed)
 
+### 1.7 - Ventajas - Desventajas - Dificultades
+
+## ***Ventajas:***
+
+•	Interfaz gráfica amigable.
+•	No es necesario programar para poder crear un mapa web.
+•	Un mapa web tiene la gran ventaja de ser interactivo y dinámico, a diferencia de un mapa estático producido como una salida gráfica de software como ArcGIS o QGIS
+
+
 
 
