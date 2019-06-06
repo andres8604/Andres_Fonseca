@@ -29,32 +29,32 @@ El mapa ubica espacialmente los polígonos de geomorfología de la ciudad de Bog
 ***-Escarpe de Falla***
 ***-Escarpe de Terraza***
 ***-Escarpe Estructural***
-***-ESe Estructural de Falla
-***-rpe Estructural Menor
-***-rpe y Contrapendiente Estructural
-***-pe y Frente Estructural
-•	Excavaciones
-•	Flujos Torrenciales
-•	Frente Estructural
-•	Ladera de Acumulación
-•	Ladera en Contrapendiente Estructural
-•	Ladera en Pendiente Estructural
-•	Ladera Estructural de Moderada Pendiente
-•	Ladera Plana Ondulada
-•	Laderas de Piedemonte Degradadas
-•	Pendiente Estructural
-•	Pendientes y Escarpes Estructurales
-•	Plano de Abanico
-•	Plano de Inundación
-•	Plano de terraza
-•	Relleno Antrópico de Escombros
-•	Rellenos de basura o rellenos sanitarios
-•	Superficie de Aplanamiento
-•	Superficie de Erosión o aplanamiento
-•	Terrenos Ondulados
-•	Valle en U
-•	Vallecito en Forma de V
-•	Vega
+***-EScarpe Estructural de Falla***
+***-Escarpe Estructural Menor***
+***-Escarpe y Contrapendiente Estructural***
+***-Escarpe y Frente Estructural***
+***-Excavaciones***
+***-Flujos Torrenciales***
+***-Frente Estructural***
+***-Ladera de Acumulación***
+***-Ladera en Contrapendiente Estructural***
+***-Ladera en Pendiente Estructural***
+***-Ladera Estructural de Moderada Pendiente***
+***-Ladera Plana Ondulada***
+***-Laderas de Piedemonte Degradadas***
+***-Pendiente Estructural***
+***-Pendientes y Escarpes Estructurales***
+***-Plano de Abanico***
+***-Plano de Inundación***
+***-Plano de terraza***
+***-Relleno Antrópico de Escombros***
+***-Rellenos de basura o rellenos sanitarios***
+***-Superficie de Aplanamiento***
+***-Superficie de Erosión o aplanamiento***
+***-Terrenos Ondulados***
+***-Valle en U***
+***-Vallecito en Forma de V***
+***-Vega***
 
 
 
