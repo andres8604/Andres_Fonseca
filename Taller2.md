@@ -65,3 +65,23 @@ El método de clasificación se realizó a partir de la variable componente, que
 Para la realización de este mapa se uso información obtenida en la página del IDIGER, descargada desde el [mapa temático](http://idiger.maps.arcgis.com/apps/webappviewer/index.html?id=fa4b277533584c3a95a9208b4d542e19).
 
 El shapefile de Geomorfología fue obtenido desde la [URL](http://www.sire.gov.co/documents/82884/85260/Geomorfolog%C3%ADa_Urbana_Esc5000.zip/b7b6e61c-e4ae-4831-a7ae-8317ba8acfb3)
+
+## 1.6 - Procedieminto realizado.
+
+* Primero se descargó la información del visor web del IDIGER.
+
+* Luego se cargo los datos como un archivo ZIP.
+
+* Luego se creó un mapa agregando como capa la información de Geomorfología.
+
+* Se configuró la visualización a partir de la variable componente.
+
+* A este mapa se le configuró un widget para el conteo de las áreas por tipo de componente en la extensión de la vista actual, por lo cual este conteo es dinámico.
+
+* Se cargo una leyenda a partir de las clases definidas por componentes.
+* Se configuró un pop up con el atributo componente, con lo cual cuando se pica sobre cualquier polígono, se abre una ventana donde se especifica a que tipo de Geomorfología corresponde el elemento, esto ayuda en cuanto a la identificación dado que algunos polígonos son demasiado pequeños para que puedan ser identificados con una vista general del mapa.
+
+[Se publicó como servicio público.](https://axel946.carto.com/builder/462d48f6-d5e2-438b-a640-8d9db33e0f7c/embed)
+
+
+
