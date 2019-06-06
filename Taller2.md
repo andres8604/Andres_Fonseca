@@ -56,5 +56,12 @@ El mapa ubica espacialmente los polígonos de geomorfología de la ciudad de Bog
 ***-Vallecito en Forma de V***
 ***-Vega***
 
+### 1.4 Descripción de los métodos de clasificación seleccionados.
 
+El método de clasificación se realizó a partir de la variable componente, que se encontró dentro del shapefile descargado del visor web del IDIGER.
 
+## 1.5 - Fuentes utilizadas en la elaboración del producto cartográfico.
+
+Para la realización de este mapa se uso información obtenida en la página del IDIGER, descargada desde el [mapa temático](http://idiger.maps.arcgis.com/apps/webappviewer/index.html?id=fa4b277533584c3a95a9208b4d542e19).
+
+El shapefile de Geomorfología fue obtenido desde la [URL](http://www.sire.gov.co/documents/82884/85260/Geomorfolog%C3%ADa_Urbana_Esc5000.zip/b7b6e61c-e4ae-4831-a7ae-8317ba8acfb3)
