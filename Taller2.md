@@ -11,9 +11,9 @@ Por otro lado, esta capa es un insumo básico para fabricar otros mapas, ya que 
 
 ### 1.3 - Descripcion del mapa tematico.
 
-El mapa temático fue hecho y publicado con la herramienta Carto.
+Los mapas temáticos fueron elaborados y publicados con la herramienta Carto.
 
-El mapa ubica espacialmente los polígonos de geomorfología de la ciudad de Bogotá, los polígonos están clasificados dentro de las 41 categorías propuestas para este mapa:
+**-El primer mapa ubica espacialmente los polígonos de geomorfología de la ciudad de Bogotá, los polígonos están clasificados dentro de las 41 categorías propuestas para este mapa:***
 
 ***-Área de Recreación Activa y Pasiva***
 ***-Área Urbanizada***
@@ -55,6 +55,14 @@ El mapa ubica espacialmente los polígonos de geomorfología de la ciudad de Bog
 ***-Valle en U***
 ***-Vallecito en Forma de V***
 ***-Vega***
+
+**- El segundo mapa ubica espacialmente los polígonos de las subunidades de la ciudad de Bogotá, los polígonos están clasificados dentro de las 5 categorías propuestas para este mapa:**-
+
+***-ladera estrucutral denudada y residual***
+***-Ladera estrucutral de sierra anticlinal***
+***-Plano de inundavion***
+***-Ladera de contrapendiente de sierra homoclinal denudada***
+***-Flujo torrencial***
 
 ### 1.4 Descripción de los métodos de clasificación seleccionados.
 
