@@ -22,6 +22,8 @@ Los temas de ordenamiento territorial y movilidad son dos grandes capítulos den
 
 ***-Malla Vial Integral. Bogotá D.C.***: Se descargo el archivo shapefile que es de tipo línea, el cual contaba entre otros atributos con la clase, tipo, nombre, vía principal, vía generadora, nombre antiguo, etiqueta. Su sistema de referencia es GCS_MAGNA.[URL descarga]( https://datosabiertos.bogota.gov.co/dataset/malla-vial-integral-bogota-d-c)
 
+***-Unidad de planeamiento zonal***: Edificación con cubierta de carácter permanente asociada a un lote destinada a proteger contra la intemperie a personas, animales o bienes. Su extensión geográfica es el Distrito Capital.[URL descarga](http://datosabiertos.bogota.gov.co/dataset/construccion-bogota-d-c)
+
 ### 1.4 Descripción de los métodos de clasificación seleccionados.
 
 Para obtener el mapa de estratos primero se tuvo que realizar un join entre la tabla de estratos y el shapefile de lotes. A continuación, se realizó un intercept con el shapefile de localidades para obtener a qué localidad pertenecía cada lote. Luego, se intentó subir cargar el archivo a Carto, pero el procedimiento falló por el gran tamaño del archivo, por ello se tuvo que disolver los polígonos de los lotes por los atributos de estrato y localidad.
